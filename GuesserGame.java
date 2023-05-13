@@ -2,7 +2,7 @@
 //1) Enhance the Guesser Game Project which you have learnt in live class. Add the maximum feature you could add to it.
 
 
-//Enhacements
+//Enhancements
 //1. give the range to guesser to guess number from the range.
 //2. writing seperate methods for players. 
 
