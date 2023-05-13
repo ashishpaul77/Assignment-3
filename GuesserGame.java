@@ -1,11 +1,9 @@
 
-//1) Enhance the Guesser Game Project which you have learnt 
-//in live class. Add the maximum feature you could add to it.
+//1) Enhance the Guesser Game Project which you have learnt in live class. Add the maximum feature you could add to it.
 
 
 //Enhacements
-//1. give the range to guesser to guess number from the 
-//   range.
+//1. give the range to guesser to guess number from the range.
 //2. writing seperate methods for players. 
 
 
@@ -23,6 +21,9 @@
 //3. Umpire
 //->umpire collect numbers from players and guesser.
 //->Umpire stores the number.
+
+
+// Code
 
 import java.util.Scanner;
 
